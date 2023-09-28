@@ -138,12 +138,12 @@ form label, form legend {
 }
 
 table {
-	margin: 20px 0 40px;
+	margin: 19px 0 40px;
 }
 
 thead {
 	background: #555555;
-	color: white;
+	color: gray;
 	font-weight: bold;
 }
 
